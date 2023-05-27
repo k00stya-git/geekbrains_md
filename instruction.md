@@ -59,3 +59,4 @@ User Name имя пользователя которое вы задаете
 
         git checkout master
 
+![Если ты видешь этот текст, то нет изображения](https://begeton.com/files/users-companies/120/4/5/r62PQbTN1BxEEmQmDpkwP4qeYFDVKv5o.jpeg "Скрин после команды log")
