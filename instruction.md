@@ -104,9 +104,18 @@
 >git push -u origin main  
 
     Направляем что есть в локальном репозитории в интернет
+    
+* Просмотр ссылок на удаленные репозитории:
+> git remote show origin
+
+* Изменение ссылки на удаленный репозиторий:
+> git remote set-url origin https://github.com/k00stya-git/geekbrains_md.git  
 
 * Отправить локальный репозиторий в интернет
 >git push
+
+* Отпрвлка репозитория из другой ветки
+>git push --set-upstream origin branch
 
 * Загрузка с удаленного репозитория:
 >git pull
